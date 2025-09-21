@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 
-I am a Ph.D. candidate in the Department of Economics at [Texas Tech University](https://www.depts.ttu.edu/economics/){:target="_blank"}, US. My research interests center on Applied Microeconomics and Decision-Science, with a particular focus on Health and Labor Economics, Policy Evaluation, and Machine Learning. My current research explores ADHD diagnosis timing and its effects on adult labor and health outcomes, the Affordable Care Act’s insurance reforms and racial disparities in labor market margins, mortality risks under the obesity–diabetes double burden, and gene-level prediction of obesity using machine learning.
+I am a Ph.D. candidate in the Department of Economics at [Texas Tech University](https://www.depts.ttu.edu/economics/){:target="_blank"}, US, and I am on the job market for the 2024–2025 academic year. My research interests center on Applied Microeconomics and Decision-Science, with a particular focus on Health and Labor Economics, Policy Evaluation, and Machine Learning. My current research explores ADHD diagnosis timing and its effects on adult labor and health outcomes, the Affordable Care Act’s insurance reforms and racial disparities in labor market margins, mortality risks under the obesity–diabetes double burden, and gene-level prediction of obesity using machine learning.
 
 
 
