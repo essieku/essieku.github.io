@@ -3,7 +3,7 @@ title: "Stability analyses on the effect of vaccination and contact tracing in m
 collection: publications
 category: manuscripts
 permalink: /publication/mpox_analysis
-excerpt: 'We develop and analyze a monkeypox transmission model with vaccination, quarantining, and contact tracing, showing via sensitivity analysis that higher vaccination coverage and effective tracing stabilize the disease-free state and markedly reduce outbreak risk'
+excerpt: 'We develop and analyze a monkeypox transmission model with vaccination, quarantining, and contact tracing, showing via sensitivity analysis that higher vaccination coverage and effective tracing stabilize the disease-free state and markedly reduce outbreak risk.'
 date: 2023-05-17
 venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
