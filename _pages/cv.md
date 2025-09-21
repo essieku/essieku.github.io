@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D in Economics, Texas Tech University, Texas (Expected May 2026)
 * M.S. in Applied Statistics and Data Science, University of Texas Rio Grande Valley, Texas, 2022
-* M.A. in Applied Economics, Xamen University, China, 2019
+* M.A. in Applied Economics, Xiamen University, China, 2019
 * B.S. in Mathematics with Economics, University of Cape Coast, Ghana, 2016
 
 Work experience
@@ -40,4 +40,4 @@ Publications
 ---
 
 
-Find my full CV [here](/files/dturkson_CV_2025.pdf).
+Find my full CV [here](/files/Kwamne_CV.pdf).
