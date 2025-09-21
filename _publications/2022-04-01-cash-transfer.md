@@ -1,5 +1,5 @@
 ---
-title: "Cash Transfer and Multidimensional Child Poverty: Evidence from Ghana"
+title: "ADHD Research"
 collection: publications
 category: manuscripts
 permalink: /publication/2022-04-01-cash-transfer
@@ -8,7 +8,7 @@ date: 2022-04-01
 venue: 'International Journal of Social Economics'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://www.emerald.com/insight/content/doi/10.1108/ijse-07-2021-0382/full/html'
-citation: 'Osei, K.B., & Turkson, D. (2022). Cash Transfer and Multidimensional Child Poverty: Evidence from Ghana. <i>International Journal of Social Economics</i>, 49 (5): 744-764.'  
+citation: 'Essieku, R. (2025). ADHD Research. <i>International Journal of Social Economics</i>, 49 (5): 744-764.'  
 ---
 
 ### Abstract
