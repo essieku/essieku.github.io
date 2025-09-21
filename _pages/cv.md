@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Economics,University of North Carolina at Chapel Hill, (2021 - present)
-* M.A. in Applied Economics, University of North Carolina at Greensboro, 2020
-* M.Phil. in Economics, University of Ghana, 2018
-* B.A. in Economics and Statistics, University of Ghana, 2015
+* Ph.D in Economics, Texas Tech University, Texas (Expected May 2026)
+* M.S. in Applied Statistics and Data Science, University of Texas Rio Grande Valley, Texas, 2022
+* M.A. in Applied Economics, Xamen University, China, 2019
+* B.S. in Mathematics with Economics, University of Cape Coast, Ghana, 2016
 
 Work experience
 ======
