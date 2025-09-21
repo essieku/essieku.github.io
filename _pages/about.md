@@ -12,7 +12,7 @@ I am a Ph.D. candidate in the Department of Economics at [Texas Tech University]
 
 
 
-Before beginning my Ph.D. program at TTU, I earned a Bachelor’s degree in BSc. Mathematics with Economics from the [University of Cape Coast](https://ucc.edu.gh/){:target="_blank"}, Ghana, followed by a  Master's degree in MSc. Applied Economics from [Xiamen University](https://en.xmu.edu.cn/){:target="_blank"}, China,  and another Master’s degree in MSc. Applied Statistics and Data Science from the [University of Texas Rio Grande Valley](https://www.utrgv.edu/){:target="_blank"}, US. My academic journey has been driven by a deep curiosity about how health, labor, and policy interact to shape human decision-making. I am passionate about conducting research that leverages advanced econometric tools, particularly causal inference frameworks and machine learning methods, to provide evidence-based solutions to pressing societal challenges.
+Before beginning my Ph.D. program at TTU, I earned a Bachelor’s degree in BSc. Mathematics with Economics from the [University of Cape Coast](https://ucc.edu.gh/){:target="_blank"}, Ghana, followed by a  Master's degree in MSc. Applied Economics from [Xiamen University](https://en.xmu.edu.cn/){:target="_blank"}, China,  and another Master’s degree in MSc. Applied Statistics and Data Science from the [University of Texas Rio Grande Valley](https://www.utrgv.edu/){:target="_blank"}, US. I am passionate about conducting research that leverages advanced econometric tools, particularly causal inference frameworks and machine learning methods, to provide evidence-based solutions to pressing societal challenges.
 
 
 ---
