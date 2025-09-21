@@ -40,4 +40,4 @@ Publications
 ---
 
 
-Find my full CV [here](/files/Kwamne_CV.pdf).
+Find my full CV [here](/files/Kwame_CV.pdf).
