@@ -1,16 +1,26 @@
 ---
-title: "Richmond and Solomom Movement Studies"
+title: "Stability analyses on the effect of vaccination and contact tracing in monkeypox virus transmission"
 collection: publications
-category: working-paper
-permalink: /publication/richPaper
-excerpt: 'Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance).'
-date: 2024-02-17
-venue: 'SSRN'
+category: manuscripts
+permalink: /publication/mpox_analysis
+excerpt: 'We develop and analyze a monkeypox transmission model with vaccination, quarantining, and contact tracing, showing via sensitivity analysis that higher vaccination coverage and effective tracing stabilize the disease-free state and markedly reduce outbreak risk'
+date: 2023-05-17
+venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ssrn.com/abstract=5006755'
-citation: 'Essieku, R.. (2024). Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking (November 01, 2024). <i>SSRN: Working Paper</i>.'
+paperurl: 'https://doi.org/10.28919/jmcs/8038'
+citation: 'Eshun, S., Essieku, R., & Ladzekpo, J. (2023). Stability analyses on the effect of vaccination and contact tracing in monkeypox virus transmission. J. Math. Comput. Sci., 13, Article-ID.'
 
 ---
 
 ### Abstract
-Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance). Using the data on 1,025 college students from NLSY97 enrolled between the years 2004 to 2009, I employed the diff-in-diff with individual fixed and the simple fixed effect model. The results showed a significant effect of acute drinking on student performance among females but not males. Also, chronic alcohol use of drinking 10 days per month significantly decreases GPA by 0.07. The study reveals that a significant proportion of college students consume alcohol, and this is detrimental not just to their health but also to their academic performance, most especially among females.
+Monkeypox is a significant health concern due to its potential for morbidity and occasional mortality.
+Vaccination and effective contact tracing play pivotal roles in controlling infectious diseases, including monkeypox. This study aims to contribute to our understanding of monkeypox dynamics by developing a comprehensive
+mathematical model that incorporates key factors such as vaccination, quarantining, and contact tracing. Through
+rigorous sensitivity analysis, we explore the impact of varying vaccination coverage and contact tracing on the
+disease’s dynamics. In particular, we investigate the dynamics of the disease in relation to variable vaccination
+coverage and contact tracing. Our findings highlight the critical role of vaccination and contact tracing in reducing monkeypox transmission. Higher vaccination coverage, combined with effective contact tracing and other
+control measures, leads to increased stability of the disease-free equilibrium and a decreased likelihood of sustained outbreaks. These findings emphasize the need for continued efforts in promoting vaccination programs and
+strengthening contact tracing capabilities to effectively manage and contain monkeypox transmissions.
+Keywords: monkeypox; vaccination; contact tracing; sensitivity analysis; control measures.
+
+
