@@ -5,19 +5,19 @@ excerpt: ""
 author_profile: true
 ---
 
+
 ### Texas Tech University
 - Teaching Assistant: Recitation Session and Lecture Support
-    - ECO 2301-001:Principles of Microeconomics <span style="float:right;">Fall 2025</span>
-    - ECO 4322: The Economics of Labor Markets  <span style="float:right;">Spring 2025</span>     
+    - ECO 2301-001: Principles of Microeconomics <span style="float:right;">Fall 2025</span><br style="clear:both;" />
+    - ECO 4322: The Economics of Labor Markets <span style="float:right;">Spring 2025</span><br style="clear:both;" />
+    - ECO 2302: Principles of Economics II: Macroeconomics <span style="float:right;">Summer 2024</span><br style="clear:both;" />
+    - ECO 3311: Intermediate Macroeconomics <span style="float:right;">Fall 2022, Spring 2024</span><br style="clear:both;" />
+    - ECO 2305: Principles of Economics <span style="float:right;">Fall 2023</span><br style="clear:both;" />
+    - ECO 3312: Intermediate Economic Theory <span style="float:right;">Spring 2023</span><br style="clear:both;" />
+    
      
 
-### Texas Tech University
-- Teaching Assistant: Recitation Session and Lecture Support
 
-  | Course                                              | Semester   |
-  |:----------------------------------------------------|-----------:|
-  | ECO 2301-001: Principles of Microeconomics          | Fall 2025  |
-  | ECO 4322: The Economics of Labor Markets            | Spring 2025|
 
 
 
