@@ -11,6 +11,13 @@ author_profile: true
     - ECO 4322: The Economics of Labor Markets         Spring 2025
      
 
+### Texas Tech University
+- Teaching Assistant: Recitation Session and Lecture Support
+
+  | Course                                              | Semester   |
+  |:----------------------------------------------------|-----------:|
+  | ECO 2301-001: Principles of Microeconomics          | Fall 2025  |
+  | ECO 4322: The Economics of Labor Markets            | Spring 2025|
 
 
 
