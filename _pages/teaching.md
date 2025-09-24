@@ -5,6 +5,18 @@ excerpt: ""
 author_profile: true
 ---
 
+### Texas Tech University
+- Teaching Assistant: Recitation Session and Lecture Support
+    - ECO 2301-001:Principles of Microeconomics        Fall 2025
+    - ECO 4322: The Economics of Labor Markets         Spring 2025
+     
+
+
+
+
+
+
+
 ### Instructor
 - Econ 101 - Intro to Economics 
     - Summer 2025
