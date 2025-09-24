@@ -22,6 +22,18 @@ author_profile: true
 
 
 
+### Texas Tech University
+- Teaching Assistant: Recitation Session and Lecture Support
+
+  <div style="display:flex; justify-content:space-between;">
+    <span>ECO 2301-001: Principles of Microeconomics</span>
+    <span>Fall 2025</span>
+  </div>
+  <div style="display:flex; justify-content:space-between;">
+    <span>ECO 4322: The Economics of Labor Markets</span>
+    <span>Spring 2025</span>
+  </div>
+
 
 
 ### Instructor
