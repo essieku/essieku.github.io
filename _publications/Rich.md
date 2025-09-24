@@ -7,7 +7,7 @@ excerpt: 'We develop and analyze a monkeypox transmission model with vaccination
 date: 2023-05-17
 venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://file:///Users/richmondessieku/Downloads/8038-17498-1-PB%20(8).pdf'
+paperurl: 'file:///Users/richmondessieku/Downloads/8038-17498-1-PB%20(8).pdf'
 citation: 'Eshun, S., Essieku, R., & Ladzekpo, J. (2023). Stability analyses on the effect of vaccination and contact tracing in monkeypox virus transmission. J. Math. Comput. Sci., 13, Article-ID.'
 
 ---
