@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/mpox_analysis
 excerpt: 'We develop and analyze a monkeypox transmission model with vaccination, quarantining, and contact tracing, showing via sensitivity analysis that higher vaccination coverage and effective tracing stabilize the disease-free state and markedly reduce outbreak risk.'
-date: 2023-05-17
+date: 2025-05-17
 venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'file:///Users/richmondessieku/Downloads/8038-17498-1-PB%20(8).pdf'
