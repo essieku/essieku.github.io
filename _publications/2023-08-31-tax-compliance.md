@@ -1,7 +1,7 @@
 ---
 title: "Tax compliance in Ghana: Does Corruption and Trust in the Government matter?"
 collection: publications
-category: manuscripts
+category: working-paper
 permalink: /publication/2023-08-31-tax-compliance
 excerpt: 'Government revenue serves as a financial foundation of economic growth. However, governments are unable to mobilize adequate tax revenue because of tax non-compliance. Previous research indicates that both economic and non-economic factors influence the tax payment propensity. Our study focuses on non-economic factors because it offers a better explanation of tax non-compliance than the pure economic factors.'
 date: 2023-08-31
