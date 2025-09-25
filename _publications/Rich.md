@@ -3,12 +3,12 @@ title: "Stability analyses on the effect of vaccination and contact tracing in m
 collection: publications
 category: manuscripts
 permalink: /publication/mpox_analysis
-excerpt: 'We develop and analyze a monkeypox transmission model with vaccination, quarantining, and contact tracing, showing via sensitivity analysis that higher vaccination coverage and effective tracing stabilize the disease-free state and markedly reduce outbreak risk'
+excerpt: 'This study builds a monkeypox transmission model that integrates vaccination, quarantine, and contact tracing, and its sensitivity findings give public health policy clear targets: higher vaccination coverage together with effective tracing stabilizes the disease free state, sharply lowers outbreak risk, and protects community well-being. (joint with Solomon Eshun and James Ladzekpo)
 date: 2023-05-17
 venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.28919/jmcs/8038'
-citation: 'Eshun, S., Essieku, R., & Ladzekpo, J. (2023). Stability analyses on the effect of vaccination and contact tracing in monkeypox virus transmission. J. Math. Comput. Sci., 13, Article-ID.'
+
 
 ---
 
