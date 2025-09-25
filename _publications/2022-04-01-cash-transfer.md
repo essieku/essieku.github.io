@@ -1,7 +1,7 @@
 ---
 title: "ADHD Research"
 collection: publications
-category: manuscripts
+category: working-paper
 permalink: /publication/2022-04-01-cash-transfer
 excerpt: 'The study aims to examine the change in deprivation rate among children aged 0–17 years between 2010 and 2012, as well as the impact of cash transfer on multidimensional child poverty in Ghana using the global Multidimensional Poverty Index (MPI). We used the difference-in-difference estimation technique to assess the impact of the cash transfer program on the MPI of pre-school (0–5 years) and school-aged (5–17 years) children, and compared the results with that of Propensity Score Matching.'
 date: 2022-04-01
