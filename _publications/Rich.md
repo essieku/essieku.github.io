@@ -8,7 +8,7 @@ date: 2023-05-17
 venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://doi.org/10.28919/jmcs/8038'
-citation: 'Turkson, D. (2024). Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking (November 01, 2024). <i>SSRN: Working Paper</i>.'
+
 
 
 
