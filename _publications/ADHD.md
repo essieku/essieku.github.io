@@ -3,7 +3,7 @@ title: "Diagnosed Too Soon or Too Late? Labor Market and Health Outcomes of Adul
 collection: publications
 category: working-paper
 permalink: /publication/adhd
-excerpt: '<strong>Job Market Paper</strong> — This paper quantifies the payoff to diagnosing ADHD earlier: better health, higher educational attainment, and more hours worked, with the largest gains at ages 5–6. The catch is that weaker wage pricing of the same human capital leaves earnings behind relative to later diagnosed peers. The path forward is to pair early screening with labor-market policies that raise realized wage returns so clinical gains translate into economic mobility. <em>Click to read the full paper.</em><br><br><strong>Authors:</strong> Richmond Essieku; Ayush Jha<br><strong>Status:</strong> Under review — <em>Journal of Health Economics</em>'
+excerpt: '<strong>Job Market Paper</strong> — This paper quantifies the payoff to diagnosing ADHD earlier: better health, higher educational attainment, and more hours worked, with the largest gains at ages 5–6. The catch is that weaker wage pricing of the same human capital leaves earnings behind relative to later diagnosed peers. The path forward is to pair early screening with labor-market policies that raise realized wage returns so clinical gains translate into economic mobility. </em><br><br><strong>Authors:</strong> Richmond Essieku; Ayush Jha<br><strong>Status:</strong> Under review — <em>Journal of Health Economics</em>'
 date: 2025-09-23
 venue: 'SSRN'
 authors: 'Richmond Essieku; Ayush Jha'
