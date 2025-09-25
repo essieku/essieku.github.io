@@ -9,7 +9,7 @@ venue: 'SSRN'
 authors: 'Richmond Essieku'
 status: 'Under Review - Energy Policy'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5503835'
-# slidesurl: ''
+# slidesurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5503835'
 ---
 
 **Authors:** Richmond Essieku  
