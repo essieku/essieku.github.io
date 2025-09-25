@@ -14,7 +14,7 @@ Education
 * Ph.D in Economics, Texas Tech University, Texas (Expected May 2026)
 * M.S. in Applied Statistics and Data Science, University of Texas Rio Grande Valley, Texas, 2022
 * MSc. in Applied Economics, Xiamen University, China, 2019
-* BSC. in Mathematics with Economics, University of Cape Coast, Ghana, 2016
+* BSc. in Mathematics with Economics, University of Cape Coast, Ghana, 2016
 
 Work experience
 ======
