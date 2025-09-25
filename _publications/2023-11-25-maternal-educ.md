@@ -1,7 +1,7 @@
 ---
 title: "Maternal Education and Child Malnutrition: Evidence from selected West African countries"
 collection: publications
-category: manuscripts
+category: working-paper
 permalink: /publication/2023-11-25-maternal-educ
 excerpt: 'This paper investigates the effects of mother’s education on child malnutrition in selected West African countries; Ghana, Nigeria, and Ivory Coast. As the early years of every individual’s life are the most essential stage of their life, one of the most important factors that pave the way for their survival and growth during childhood is their levels of nutrition.'
 date: 2023-11-25
