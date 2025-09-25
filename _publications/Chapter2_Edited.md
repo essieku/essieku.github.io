@@ -4,7 +4,7 @@ collection: publications
 category: working-paper
 permalink: /publication/aca-hims
 excerpt: '<strong>Policy question</strong> — If government wants more older pre retirees to remain employed rather than retire early and strain Social Security, can ACA Marketplace premium subsidies do the job, and by how much? Using doubly robust optimal propensity score matching with g computation on American Community Survey data, this study estimates the average treatment effect on the treated and a clear <em>Number Needed to Treat</em>: subsidize roughly 132 pre retirees to keep one additional worker attached to the labor force. Subsidies also shift some recipients toward part time schedules without exit, with modest reductions in weekly hours. Effects are larger for White and Asian recipients and weaker for Black and Hispanic recipients, pointing to a coverage plus targeted labor market supports agenda for equity.<br><br><strong>Authors:</strong> Richmond Essieku'
-date: 2025-03-24
+date: 2025-05-24
 venue: 'SSRN'
 authors: 'Richmond Essieku'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5452774'
