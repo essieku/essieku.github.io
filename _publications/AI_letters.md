@@ -1,16 +1,20 @@
 ---
-title: "Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking"
+title: "In Whom We Trust? Social Networks and Trust in AI vs. Human Experts in Housing Investment Decisions"
 collection: publications
 category: working-paper
-permalink: /publication/2024-11-05-alc-gpa
-excerpt: 'Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance).'
-date: 2024-02-17
+permalink: /publication/ai-trust
+excerpt: 'Using propensity score matching and inverse probability weighting on nationally representative data from an SSRS randomized experiment with the FINRA Investor Education Foundation, this paper estimates how offline and online social networks shape consumer trust in AI generated versus human expert housing advice. Offline networks increase trust in human experts, especially among financially literate midlife adults. Online networks are associated with greater trust in AI, particularly among younger adults, political liberals, and mobile home residents. The results highlight the role of social context for policy and platform design in digital finance. <br><br><strong>Authors:</strong> Richmond Essieku<br><strong>Status:</strong> Working paper'
+date: 2025-09-18
 venue: 'SSRN'
-slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ssrn.com/abstract=5006755'
-citation: 'Turkson, D. (2024). Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking (November 01, 2024). <i>SSRN: Working Paper</i>.'
-
+authors: 'Richmond Essieku'
+status: 'Under Review: Finance Research Letters'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5402137'
+# slidesurl: ''
 ---
 
+**Authors:** Richmond Essieku  
+**Status:** Under Review: Finance Research Letters
+
 ### Abstract
-Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance). Using the data on 1,025 college students from NLSY97 enrolled between the years 2004 to 2009, I employed the diff-in-diff with individual fixed and the simple fixed effect model. The results showed a significant effect of acute drinking on student performance among females but not males. Also, chronic alcohol use of drinking 10 days per month significantly decreases GPA by 0.07. The study reveals that a significant proportion of college students consume alcohol, and this is detrimental not just to their health but also to their academic performance, most especially among females.
+This study investigates whether the source of financial information (offline or online social networks) influences consumer trust in artificial intelligence generated and human expert provided housing investment advice. Using nationally representative survey data from a randomized experiment conducted by the SSRS Opinion Panel in partnership with the FINRA Investor Education Foundation, we estimate causal effects through propensity score matching and inverse probability weighting techniques. We find that offline sources increase trust in human experts, particularly among individuals with higher financial literacy and those in midlife. In contrast, online sources are associated with greater trust in artificial intelligence, especially among younger adults, political liberals, and mobile home residents. These results suggest that trust in financial advice is shaped by the social context in which information is received, offering implications for policy and platform design in the digital finance era.
+
