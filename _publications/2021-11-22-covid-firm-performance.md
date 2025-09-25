@@ -1,7 +1,7 @@
 ---
 title: "Government Policies and Firm Performance in the COVID-19 Pandemic Era: A Sectoral Analysis"
 collection: publications
-category: manuscripts
+category: working-paper
 permalink: /publication/2021-11-22-covid-firm-performance 
 excerpt: 'Although there has been a series of ongoing government policies to mitigate the economic effect of the pandemic, we do not know to what extent these policies have been effective. Using two-period panel data (before and during the pandemic) on 419 Italian firms, this study examines the impact of government policies on firms.'
 date: 2021-11-22
