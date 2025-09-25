@@ -7,7 +7,7 @@ excerpt: 'This paper quantifies how mortality risk escalates when occupational e
 venue: 'SSRN'
 authors: 'Richmond Essieku'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5453014'
-# date: 2025-09-23
+# date: 2025-06-23
 # slidesurl: ''
 ---
 
