@@ -3,7 +3,7 @@ title: "Diagnosed Too Soon or Too Late? Labor Market and Health Outcomes of Adul
 collection: publications
 category: working-paper
 permalink: /publication/2024-09-23-cash-transfer-labor
-excerpt: 'This Job Market Paper quantifies the payoff to diagnosing ADHD earlier: better health and more hours worked, with the largest gains at ages 5 to 6. The catch is weaker wage pricing of the same human capital, which leaves earnings behind. The path forward is to combine early screening with policies that raise realized wage returns so clinical gains become economic mobility. Click to read the full paper'
+excerpt: 'This Job Market Paper quantifies the payoff to diagnosing ADHD earlier: better health, higher educational attainment, and more hours worked, with the largest gains at ages 5–6. The catch is that weaker wage pricing of the same human capital leaves earnings behind relative to later diagnosed peers. The path forward is to pair early screening with labor market policies that raise realized wage returns so clinical gains translate into economic mobility. Click to read the full paper'
 date: 2025-09-23
 venue: 'SSRN'
 slidesurl: # 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5452997'
