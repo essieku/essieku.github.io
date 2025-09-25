@@ -1,16 +1,17 @@
 ---
-title: "Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking"
+title: "Labor Force Behavior and ACA Marketplace Premium Subsidy: Margins of Employment Among Older Pre-Retirees"
 collection: publications
 category: working-paper
-permalink: /publication/2024-11-05-alc-gpa
-excerpt: 'Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance).'
-date: 2024-02-17
+permalink: /publication/aca-hims
+excerpt: '<strong>Policy question</strong> — If government wants more older pre retirees to remain employed rather than retire early and strain Social Security, can ACA Marketplace premium subsidies do the job, and by how much? Using doubly robust optimal propensity score matching with g computation on American Community Survey data, this study estimates the average treatment effect on the treated and a clear <em>Number Needed to Treat</em>: subsidize roughly 132 pre retirees to keep one additional worker attached to the labor force. Subsidies also shift some recipients toward part time schedules without exit, with modest reductions in weekly hours. Effects are larger for White and Asian recipients and weaker for Black and Hispanic recipients, pointing to a coverage plus targeted labor market supports agenda for equity.<br><br><strong>Authors:</strong> Richmond Essieku'
+date: 2025-03-24
 venue: 'SSRN'
-slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ssrn.com/abstract=5006755'
-citation: 'Turkson, D. (2024). Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking (November 01, 2024). <i>SSRN: Working Paper</i>.'
-
+authors: 'Richmond Essieku'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5452774'
+# slidesurl: ''
 ---
 
+**Authors:** Richmond Essieku
+
 ### Abstract
-Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance). Using the data on 1,025 college students from NLSY97 enrolled between the years 2004 to 2009, I employed the diff-in-diff with individual fixed and the simple fixed effect model. The results showed a significant effect of acute drinking on student performance among females but not males. Also, chronic alcohol use of drinking 10 days per month significantly decreases GPA by 0.07. The study reveals that a significant proportion of college students consume alcohol, and this is detrimental not just to their health but also to their academic performance, most especially among females.
+Using American Community Survey data, I estimate how the ACA Health Insurance Marketplace subsidy (HIMS) affects pre retirees’ labor market margins, with emphasis on racial disparities. Identification relies on selection on observables, implemented via a doubly robust propensity score matching framework with g computation to estimate the average treatment effect on the treated (ATT). The findings indicate that HIMS delays retirement and prevents labor force exit (−0.0076; 95% CI: −0.0149 to −0.0002), with Number Needed to Treat (NNT) = 132, meaning that for every 132 individuals subsidized, one additional person stays employed who would have otherwise exited. On the intensive margin, HIMS increases part time work by 1.51 percentage points (0.0151; 95% CI: 0.0059 to 0.0244; NNT = 66) and lowers weekly hours by 1.24 hours (95% CI: −1.39 to −1.09), consistent with adjustments at the intensive margin rather than withdrawal. Effects are heterogeneous: White and Asian recipients exhibit larger retention and part time responses, whereas Black and Hispanic recipients show weaker effects, highlighting equity gaps in how the health insurance subsidy translates into labor market attachment. Results align with modest mobility and health attachment channels rather than large employment disincentives.
