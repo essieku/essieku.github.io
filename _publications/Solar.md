@@ -1,16 +1,19 @@
 ---
-title: "Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking"
+title: "Who Benefits from Residential Solar? Evidence on Energy Insecurity Disparities and Policy Gaps in the U.S"
 collection: publications
 category: working-paper
-permalink: /publication/2024-11-05-alc-gpa
-excerpt: 'Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance).'
-date: 2024-02-17
+permalink: /publication/solar
+excerpt:  'Using inverse probability weighting on the 2020 RECS, this paper shows that residential solar lowers outages and disconnection risk but offers limited help on affordability. Benefits concentrate among Baby Boomers and Generation X and are stronger for White and middle income households, while Millennials, Generation Z, and many low income and minority households see uneven gains—pointing to targeted support to expand reliability without widening inequities.'
+date: 2025-05-24
 venue: 'SSRN'
-slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://ssrn.com/abstract=5006755'
-citation: 'Turkson, D. (2024). Impact of Alcohol Use on Academic Performance Among College Students: The Case of Acute and Chronic Drinking (November 01, 2024). <i>SSRN: Working Paper</i>.'
-
+authors: 'Richmond Essieku'
+status: 'Under Review - Energy Policy'
+paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5503835'
+# slidesurl: ''
 ---
 
+**Authors:** Richmond Essieku  
+**Status:** Under Review - Energy Policy
+
 ### Abstract
-Prior research suggests that college drinking adversely affects education. While several studies have examined the effect of alcohol on the quantity of education using measures such as years of schooling completed, high-school graduation, or dropping out of college, this paper investigates the effect of alcohol use on the quality of education among college students. I examined the acute and chronic effects of alcohol use on college student performance (using GPA as a measure of performance). Using the data on 1,025 college students from NLSY97 enrolled between the years 2004 to 2009, I employed the diff-in-diff with individual fixed and the simple fixed effect model. The results showed a significant effect of acute drinking on student performance among females but not males. Also, chronic alcohol use of drinking 10 days per month significantly decreases GPA by 0.07. The study reveals that a significant proportion of college students consume alcohol, and this is detrimental not just to their health but also to their academic performance, most especially among females.
+This study investigates the impact of residential solar photovoltaic (PV) adoption on energy insecurity outcomes in the United States, with particular attention to disparities across generational cohorts, racial groups, and income levels. Inverse probability weighting is applied to nationally representative data from the 2020 Residential Energy Consumption Survey to estimate average treatment effects across three dimensions of energy insecurity: prolonged power outages, disconnection notices, and affordability-related tradeoffs. Results indicate that solar PV adoption reduces the likelihood of outages and disconnections, although its effect on affordability remains limited. Subgroup analysis reveals that older cohorts, particularly Baby Boomers and Generation X, consistently benefit, while Millennials and Generation Z face uneven outcomes. Racial and income-based gaps persist, with White and middle-income households gaining more reliable benefits. These findings highlight the need for targeted policy solutions, including bundled assistance for low-income households, and generation-specific program design. Without such structural reforms, solar adoption risks reinforcing existing inequities rather than resolving them. Policy implications are discussed.
