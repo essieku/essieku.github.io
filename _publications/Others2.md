@@ -3,7 +3,7 @@ title: "Predicting Obesity Risk Through Gene-Level Modeling: A Machine Learning 
 collection: publications
 category: working-paper
 permalink: /publication/gene-obesity-ml
-excerpt: '"Can gene-level signals help us get ahead of the obesity epidemic? Leveraging DNA methylation and HPA-axis–focused feature discovery (SAM + RFE-SVM), this study builds a multilayer perceptron machine learning model that predicts individual obesity risk with strong out-of-sample performance (≈83% accuracy, 90% recall, 75% AUC). The results show how gene-based risk stratification can sharpen prevention, target resources, and inform cost-effective, precision public health policy"(Joint with Dr. Rodrigo Hansapni and Dr. Vincent Diego)'
+excerpt: '"Can gene-level signals help us get ahead of the obesity epidemic? Leveraging DNA methylation and HPA-axis–focused feature discovery (SAM + RFE-SVM), this study builds a multilayer perceptron machine learning model that predicts individual obesity risk with strong out-of-sample performance (≈83% accuracy, 90% recall, 75% AUC). The results show how gene-based risk stratification can sharpen prevention, target resources, and inform cost-effective, precision public health policy"(Joint with Rodrigo Hansapni and Vincent Diego)'
 date: 2025-07-20
 venue: 'Under Co-Authors Review'
 status: 'Working Paper'
