@@ -1,5 +1,5 @@
 ---
-title: "In Whom We Trust? Social Networks and Trust in AI vs. Human Experts in Housing Investment Decisions"
+title: "In RICHMOND We Trust? Social Networks and Trust in AI vs. Human Experts in Housing Investment Decisions"
 collection: publications
 category: books
 permalink: /publication/ai-trust
