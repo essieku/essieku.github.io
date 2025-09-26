@@ -3,7 +3,7 @@ title: "Predicting Obesity Risk Through Gene-Level Modeling: A Machine Learning 
 collection: publications
 category: working-paper
 permalink: /publication/gene-obesity-ml
-excerpt: 'Can gene-level signals help us get ahead of the obesity epidemic? Leveraging DNA methylation and HPA-axis–focused feature discovery (SAM + RFE-SVM), this study builds a multilayer perceptron model that predicts individual obesity risk with strong out-of-sample performance (≈83% accuracy, 90% recall, 75% AUC). The results show how gene-based risk stratification can sharpen prevention, target resources, and inform cost-effective, precision public health policy. <br><br><strong>Authors:</strong> Richmond Essieku<br><strong>Status:</strong> Working Paper'
+excerpt: 'Can gene-level signals help us get ahead of the obesity epidemic? Leveraging DNA methylation and HPA-axis–focused feature discovery (SAM + RFE-SVM), this study builds a multilayer perceptron machine learning model that predicts individual obesity risk with strong out-of-sample performance (≈83% accuracy, 90% recall, 75% AUC). The results show how gene-based risk stratification can sharpen prevention, target resources, and inform cost-effective, precision public health policy. <br><br><strong>Authors:</strong> Richmond Essieku<br><strong>Status:</strong> Working Paper'
 date: 2025-07-26
 venue: 'Manuscript'
 authors: 'Richmond Essieku'
