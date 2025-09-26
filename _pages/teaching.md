@@ -27,8 +27,8 @@ author_profile: true
 
 ### Regional Maritime University 
 - Teaching Assistant: Recitation Session and Lecture Support
-    - BLM 105, BPS 105, DPS 105: Element of Economics I <span style="float:right;">Semester 2, 2016</span><br style="clear:both;" />
-    - BLM 201, BPS 201, DPS 201: Element of Economics II <span style="float:right;">Semester 1, 2017</span><br style="clear:both;" />
+    - BLM 105, BPS 105, DPS 105: Element of Economics  <span style="float:right;">Semester 2, 2016</span><br style="clear:both;" />
+    - BLM 201, BPS 201, DPS 201: Principles of Economics  <span style="float:right;">Semester 1, 2017</span><br style="clear:both;" />
     - BLM 101, BPS 101, DPS 101: Business Mathematics <span style="float:right;">Semester 1, 2020</span><br style="clear:both;" />
 
  
