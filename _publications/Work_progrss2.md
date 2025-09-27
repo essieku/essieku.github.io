@@ -1,5 +1,5 @@
 ---
-title: "Targeting What Matters for Older Adults: Machine Learning Predictors of Long Term Care Insurance Decisions"
+title: "Machine Learning Signals for Long Term Care Insurance Choice Among Older Americans"
 collection: publications
 category: work-in-progress
 permalink: /publication/ltci-older-adults
@@ -10,3 +10,4 @@ excerpt: |-
 ---
 
 **Status:** Work in progress. The complete work will be updated soon.
+
