@@ -1,19 +1,13 @@
 ---
-title: "In RICHMOND We Trust? Social Networks and Trust in AI vs. Human Experts in Housing Investment Decisions"
+title: "Machine Learning Feature Selection Techniques to Model the Elements of Cash Conversion Cycle and Other Covariates on Hospital Performance"
 collection: publications
 category: books
 permalink: /publication/ai-trust
-excerpt: 'Using propensity score matching and inverse probability weighting on nationally representative data from an SSRS randomized experiment with the FINRA Investor Education Foundation, this paper estimates how offline and online social networks shape consumer trust in AI generated versus human expert housing advice. Offline networks increase trust in human experts, especially among financially literate midlife adults. Online networks are associated with greater trust in AI, particularly among younger adults, political liberals, and mobile home residents. The results highlight the role of social context for policy and platform design in digital finance. <br><br><strong>Category:</strong> Books<br><strong>Authors:</strong> Richmond Essieku<br><strong>Status:</strong> Under Review: Finance Research Letters'
+excerpt: 'The book models hospitals’ financial health using machine learning. Built in Python with scikit-learn, it tests exhaustive best-subset search alongside Lasso, Ridge, and Elastic Net. On real hospital data, Lasso yields a compact, high-signal feature set with RMSE on par with peers, consistently elevating Accounts Receivable Days, Accounts Payable Days, Inventory Turnover Days, and Debt Ratio as the most predictive drivers. Each one day acceleration in collections aligns with approximately 1% performance improvement, while each additional day in payables corresponds to a 0.003 times decline, offering machine learning driven guidance for leaders focused on strengthening hospital health through cash flow discipline.'
 date: 2025-03-18
-venue: "SSRN"
-authors: "Richmond Essieku"
-status: "Under Review: Finance Research Letters"
-paperurl: "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5402137"
+venue: "B.P International"
+paperurl: "https://doi.org/10.9734/bpi/rumcs/v8/440"
 # slidesurl: ""
 ---
-
-**Authors:** Richmond Essieku  
-**Status:** Under Review: Finance Research Letters
-
 ### Abstract
-This study investigates whether the source of financial information (offline or online social networks) influences consumer trust in artificial intelligence generated and human expert provided housing investment advice. Using nationally representative survey data from a randomized experiment conducted by the SSRS Opinion Panel in partnership with the FINRA Investor Education Foundation, we estimate causal effects through propensity score matching and inverse probability weighting techniques. We find that offline sources increase trust in human experts, particularly among individuals with higher financial literacy and those in midlife. In contrast, online sources are associated with greater trust in artificial intelligence, especially among younger adults, political liberals, and mobile home residents. These results suggest that trust in financial advice is shaped by the social context in which information is received, offering implications for policy and platform design in the digital finance era.
+This study seeks to contribute by empirically modeling the cash conversion cycle on hospital performance using two supervised machine learning feature selection techniques. In data science, model selection instability is a major concern, especially when dealing with a high number of features. Data mining, such as subset selection technique and regularization (shrinkage) techniques, pays attention to how to extract meaningful information by modeling the raw data. We employed methods such as best subset selection coupled with an exhaustive search using linear regression and shrinkage methods (Lasso, Ridge, and ElasticNet) to model a real dataset. The empirical results indicated that the Lasso outperformed the other shrinkage methods in feature selection even though the average root mean squared error (rmse) was close. Again, Account Receivable Days (ARD), Account Payable Days (APD), Inventory Turnover Days (INV), and Debt Ratio were discovered to be predictors of hospital performance, which are also components of the Cash Conversion Cycle. Finally, the results show that, on average, a day decrease in the hospital’s collection period will decrease performance by 1%, and a one-unit increase in a day in the account payable decrease performance by 0.003 times. Future studies could explore more advanced algorithms, like recursive feature elimination selection methods, to enhance the analysis of CCC on hospital performance. Lastly, it is recommended that hospitals focus on restructuring their cash conversion cycle management, particularly concerning days of account payables.
