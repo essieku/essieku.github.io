@@ -1,8 +1,8 @@
 ---
-title: "Work in Progress"
+title: "Current Projects"
 collection: publications
 category: work-in-progress
-permalink: /publication/work-in-progress
+permalink: /publication/current-projects
 date: 2025-09-01
 excerpt: |-
   <ul style="margin:0">
@@ -12,9 +12,8 @@ excerpt: |-
   </ul>
 ---
 
-<!-- (Optional) If someone clicks through to this page, you can repeat the list: -->
-### Current Projects
+### Work in Progress
+
 - Financial depth, gross fixed capital formation and economic growth: Empirical analysis of 18 Asian economies  
 - SARIMA modelling of inflation: The case of Liberia  
 - COVID-19 Tweets Sentiment Classification: A Deep Learning Model with Stacking Ensemble for Improved Performance
-
