@@ -4,7 +4,7 @@ collection: publications
 category: books
 permalink: /publication/ai-trust
 excerpt: 'The book models hospitals’ financial health using machine learning. Built in Python with scikit-learn, it tests exhaustive best-subset search alongside Lasso, Ridge, and Elastic Net. On real hospital data, Lasso yields a compact, high-signal feature set with RMSE on par with peers, consistently elevating Accounts Receivable Days, Accounts Payable Days, Inventory Turnover Days, and Debt Ratio as the most predictive drivers. Each one day acceleration in collections aligns with approximately 1% performance improvement, while each additional day in payables corresponds to a 0.003 times decline, offering machine learning driven guidance for leaders focused on strengthening hospital health through cash flow discipline.'
-date: 2025-03-18
+date: 2024-03-18
 venue: "B.P International"
 paperurl: "https://doi.org/10.9734/bpi/rumcs/v8/440"
 # slidesurl: ""
