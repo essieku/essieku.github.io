@@ -7,7 +7,7 @@ excerpt: '"This study builds a monkeypox transmission model that integrates vacc
 date: 2023-05-17
 venue: 'J. Math. Comput. Sci.'
 slidesurl: # 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'https://doi.org/10.28919/jmcs/8038'
+paperurl: 'https://drive.google.com/file/d/1PQbQSqYvStPIi0HkMtW4qa5XPmWQFu9m/view?usp=sharing'
 
 
 
