@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Find my full CV [here](/files/Kwame_CV.pdf).
+Find my full CV [here](/files/Popo"s_JMP_Final_CV.pdf).
