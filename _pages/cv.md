@@ -1,6 +1,10 @@
 ---
+layout: archive
 title: "CV"
-layout: redirect
 permalink: /cv/
-redirect_to: "/files/Popos_JMP_Final_CV1.pdf"
+author_profile: true
+redirect_from:
+  - /resume
 ---
+
+Find my full CV [here](/files/Popo"s_JMP_Final_CV1.pdf).
