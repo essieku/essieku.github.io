@@ -3,7 +3,7 @@ title: "Who Benefits from Residential Solar? Evidence on Energy Insecurity Dispa
 collection: publications
 category: working-paper
 permalink: /publication/solar
-excerpt: 'Using inverse probability weighting on the 2020 RECS, this paper shows that residential solar lowers outage and disconnection risks but offers limited relief on affordability. Benefits concentrate among Baby Boomers and Generation X and are stronger for White and middle income households, while Millennials, Generation Z, and many low income and minority households see uneven gains, pointing to targeted support that expands reliability without widening inequities"(<em>Under Review - Energy Policy<em>)'
+excerpt: '"Using inverse probability weighting on the 2020 RECS, this paper shows that residential solar lowers outage and disconnection risks but offers limited relief on affordability. Benefits concentrate among Baby Boomers and Generation X and are stronger for White and middle income households, while Millennials, Generation Z, and many low income and minority households see uneven gains, pointing to targeted support that expands reliability without widening inequities"(<em>Under Review - Energy Policy<em>)'
 date: 2025-05-24
 venue: 'SSRN'
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5503835'
