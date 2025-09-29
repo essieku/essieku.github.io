@@ -17,5 +17,5 @@ Before beginning my Ph.D. program at TTU, I earned a Bachelor’s degree in BSc.
 
 ---
 
-Here is my [Curriculum Vitae](/files/Popo"s_JMP_Final_CV1.pdf). You can contact me via [ressieku@ttu.edu](mailto:ressieku@ttu.edu).
+Here is my [Curriculum Vitae](/files/Popo"s_JMP_Final_CV2.pdf). You can contact me via [ressieku@ttu.edu](mailto:ressieku@ttu.edu).
 
