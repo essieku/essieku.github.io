@@ -7,4 +7,4 @@ redirect_from:
   - /resume
 ---
 
-Find my full CV [here](/files/Rich's_Updated_CV_Version.pdf).
+Find my full CV [here](/files/Rich's_Updated_CV_Version1.pdf).
