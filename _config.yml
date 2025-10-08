@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "rich.png"
   name             : "Richmond Essieku"
-  pronouns         : "He/His/Him" 
+  pronouns         : #"He/His/Him" 
   bio              : "Ph.D. Candidate in Economics"
   location         : "Lubbock, TX"
   employer         : "Texas Tech University"
