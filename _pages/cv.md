@@ -6,6 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 redirect_to:
-  - /files/Rich's_Updated_CV_Version1.pdf
+  - /files/Rich's_Updated_CV_Version2.pdf
 ---
 
