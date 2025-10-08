@@ -17,5 +17,6 @@ Before beginning my Ph.D. program at TTU, I earned a bachelor’s degree in BSc.
 
 ---
 
-Here is my [Curriculum Vitae](/files/Rich's_Updated_CV_Version1.pdf). You can contact me via [ressieku@ttu.edu](mailto:ressieku@ttu.edu).
+Here is my [Curriculum Vitae](/files/Rich's_Updated_CV_Version1.pdf){:target="_blank" rel="noopener noreferrer"}
+. You can contact me via [ressieku@ttu.edu](mailto:ressieku@ttu.edu).
 
