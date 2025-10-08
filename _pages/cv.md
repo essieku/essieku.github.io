@@ -5,6 +5,6 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to:
+  - /files/Rich's_Updated_CV_Version1.pdf
 ---
-
-Find my full CV [here](/files/Rich's_Updated_CV_Version1.pdf).
