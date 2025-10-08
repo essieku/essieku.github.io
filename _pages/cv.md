@@ -4,6 +4,8 @@ main:
   - title: "Research"
     url: /research/
   - title: "CV"
-    url: /files/Rich%27s_Updated_CV_Version1.pdf   # note %27 for the apostrophe
-    external: true                                  # opens in a new tab with rel attrs
+    url: "/files/Rich's_Updated_CV_Version1.pdf"  # use the actual filename; quote it
+    external: true                                 # Minimal Mistakes: opens in new tab
+    target: _blank                                 # extra safety
+    rel: "noopener noreferrer"                     # security best practice
   # ...other items
