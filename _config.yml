@@ -34,10 +34,10 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=WNWQEDkAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0005-5031-0159"
+  orcid            : #"https://orcid.org/0009-0005-5031-0159"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     :  "https://www.researchgate.net/profile/Richmond-Essieku-2"
+  researchgate     :  #"https://www.researchgate.net/profile/Richmond-Essieku-2"
   scopus           : # URL
 
   # Repositories and software development
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "richmond-essieku-210568227"
+  linkedin         : #"richmond-essieku-210568227"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
